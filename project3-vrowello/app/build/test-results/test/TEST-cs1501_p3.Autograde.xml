@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs1501_p3.Autograde" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-03-29T03:33:55" hostname="rowello" time="0.065">
+  <properties/>
+  <testcase name="Add/Get" classname="cs1501_p3.Autograde" time="0.036"/>
+  <testcase name="Remove" classname="cs1501_p3.Autograde" time="0.009"/>
+  <testcase name="Update" classname="cs1501_p3.Autograde" time="0.005"/>
+  <testcase name="Get for specific make/model" classname="cs1501_p3.Autograde" time="0.006"/>
+  <testcase name="Get from all" classname="cs1501_p3.Autograde" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

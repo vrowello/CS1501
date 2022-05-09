@@ -1,0 +1,10 @@
+{
+	"name": "PittDSAII",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"args": { "VARIANT": "bionic" }
+	},
+	"settings": {},
+	"extensions": [],
+	"remoteUser": "vscode"
+}

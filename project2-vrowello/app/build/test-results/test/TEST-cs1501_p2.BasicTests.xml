@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs1501_p2.BasicTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-03-15T02:47:54" hostname="rowello" time="0.08">
+  <properties/>
+  <testcase name="Testing DLB" classname="cs1501_p2.BasicTests" time="0.06"/>
+  <testcase name="Testing AutoCompleter" classname="cs1501_p2.BasicTests" time="0.014"/>
+  <testcase name="Testing UserHistory" classname="cs1501_p2.BasicTests" time="0.003"/>
+  <system-out><![CDATA[No History Found
+
+User History:
+dictionary1
+
+User History:
+dictionary1
+dip1
+
+User History:
+dictionary1
+dip2
+
+History Detected
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
